@@ -1,6 +1,6 @@
 Name:		texlive-figchild
 Version:	62945
-Release:	1
+Release:	2
 Summary:	Pictures for creating children's activities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/figchild
